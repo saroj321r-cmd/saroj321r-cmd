@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hey, I'm Saroj Vishwakarma 👋
 
-<!--
-**saroj321r-cmd/saroj321r-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer • Programmer 
 
-Here are some ideas to get you started:
+I build practical applications across **Full-Stack Development, Data & AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into working products, solving problems, and exploring how software can be made more useful and scalable.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+C++ • Python • JavaScript • SQL
+
+**Development**  
+HTML • CSS • React • Node.js • Express.js • REST APIs
+
+**Databases**  
+MongoDB • PostgreSQL
+
+**Data & AI**  
+Pandas • NumPy • Data Visualization • AI/ML
+
+**Tools**  
+Git • GitHub • VS Code • Postman
+
+---
+
+## 🚀 What I Do
+
+- Build full-stack web applications
+- Develop backend APIs and database-driven systems
+- Work with data using Python and SQL
+- Explore AI/ML and automation
+- Practice DSA and problem solving
+- Contribute to open-source projects
+
+---
+
+## 📌 Currently
+
+Building projects, contributing to open source, and improving my skills across **software development, data, and AI**.
+
+---
+
+## 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/saroj-vishwakarma-26523a381/) • [GitHub](https://github.com/saroj321r-cmd)
